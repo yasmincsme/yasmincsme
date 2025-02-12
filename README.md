@@ -44,7 +44,9 @@
 <div align="center">
 
 <a href="https://github.com/yasmincsme/Comunicacao-serial-embarcatech.git">
-  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=Comunicacao-serial-embarcatech&theme=midnight-purple" alt="Comunicacao Serial Embarcatech" />
+  <picture>
+    <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?  username=yasmincsme&repo=Comunicacao-serial-embarcatech&theme=midnight-purple" alt="Comunicacao Serial Embarcatech" />
+  </picture>  
 </a>
 
 <a href="https://github.com/yasmincsme/TicTacToe.git">
