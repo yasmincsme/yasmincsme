@@ -29,33 +29,27 @@
 
 <br>
 
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yasmincsme&show_icons=true&theme=midnight-purple">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini464&layout=compact&theme=midnight-purple">
-</div>
 
-
-
-
-
-
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFA4C7&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos" alt="Typing SVG" /></a>
-
+##  📊 Stats  
 <div align="center">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincsme&theme=midnight-purple&card_width=200" alt="readme-typing-svg">
 
-<a href="https://github.com/yasmincsme/Comunicacao-serial-embarcatech.git">
-  <picture>
-    <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?  username=yasmincsme&repo=Comunicacao-serial-embarcatech&theme=midnight-purple" alt="Comunicacao Serial Embarcatech" />
-  </picture>  
-</a>
+ 
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
+    <img   width="50%" alt="yasmincsme's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yasmincsme?theme=midnight-purple" />
+  </a>
+</p>
 
-<a href="https://github.com/yasmincsme/TicTacToe.git">
-  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=TicTacToe&theme=midnight-purple" alt="TicTacToe" />
-</a>
-
-<a href="https://github.com/yasmincsme/Interrupcoes-embarcatech.git">
-  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=Interrupcoes-embarcatech&theme=midnight-purple" alt="Interrupcoes Embarcatech" />
-</a>
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img  width="50%" src="https://streak-stats.demolab.com/?user=yasmincsme&theme=midnight-purple&currStreakNum=FFA500&fire=FFA500" alt="GitHub Streak" />
+  </a>
 </div>
+
+
+
+
+
+
+
 
