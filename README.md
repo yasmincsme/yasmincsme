@@ -35,13 +35,13 @@
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincsme&theme=midnight-purple&card_width=200" alt="readme-typing-svg">
 
  
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??username=yasmincsme&cardType=github&theme=midnight-purple&preferLogin=true&Text=000&Ring=FFA4C7&Border=FFA4C7">
     <img   width="50%" alt="yasmincsme's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yasmincsme?theme=midnight-purple" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img  width="50%" src="https://streak-stats.demolab.com/?user=yasmincsme&theme=midnight-purple&currStreakNum=FFA500&fire=FFA500" alt="GitHub Streak" />
   </a>
 </div>
