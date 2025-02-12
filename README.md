@@ -1,9 +1,6 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi there! I'm Yasmin Cordeiro</h1>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=143&color=9033ff"/>
 
-
-## 🦇 About Me
+<h2 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi there! I'm Yasmin Cordeiro</h2>
 
 <div>
 
