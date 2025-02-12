@@ -1,5 +1,7 @@
 ### <div align="center"> 👋 Hi there! I'm Yasmin, welcome to my profile 🇧🇷 </div>
 
+![github-header-image (3)](cover.png)
+
 <!--
 **yasmincsme/yasmincsme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
