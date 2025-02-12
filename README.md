@@ -28,6 +28,9 @@ I am currently studying **Computer Engineering** at UEFS and a **FAPESB** schola
 </p>
 </div>
 
+<br>
+
+
 ## 🛠 Tech Stack
 
 
