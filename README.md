@@ -14,9 +14,7 @@
 - 📢 **Student representative** on the Computer Engineering board.
 
 - 💜 Founding member of **IEEE Women in Engineering** at UEFS.
-
-- 🌱  Forever an **IEEE volunteer**.
-
+  
 - ✨ **Pronouns:** She/Her
 </div>
 
