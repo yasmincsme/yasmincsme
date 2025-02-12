@@ -1,9 +1,8 @@
-### <div align="center"> 👋 Hi there! I'm Yasmin, welcome to my profile 🇧🇷 </div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=C341EB&width=435&lines=Quem+escova+bits+n%C3%A3o+tem+tempo...;+para+c%C3%B3digo+sujo.)](https://git.io/typing-svg)
 ![github-header-image (3)](cover.png)
 
 <div>
-   <img align="right" alt="lariiscriis" width="230" height="230" src="[https://i.pinimg.com/474x/81/5e/ef/815eefdb69dcbc97214ff20d33b1e319.jpg](https://i.pinimg.com/736x/0a/5b/78/0a5b78c9f07c95f5e8af1e3c1eae4d16.jpg)">
+   <img align="right" alt="lariiscriis" width="230" height="230" src="[https://i.pinimg.com/736x/0a/5b/78/0a5b78c9f07c95f5e8af1e3c1eae4d16.jpg]">
 
 - 🎓 Currently studying **Computer Engineering** at UEFS.
   
