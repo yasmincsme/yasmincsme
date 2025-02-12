@@ -45,15 +45,15 @@
 ## My Repositories
 
 <a href="https://github.com/yasmincsme/Comunicacao-serial-embarcatech.git">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=Comunicacao-serial-embarcatech&theme=radical" alt="Comunicacao Serial Embarcatech" />
+  <img width="32.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=Comunicacao-serial-embarcatech&theme=midnight-purple" alt="Comunicacao Serial Embarcatech" />
 </a>
 
 <a href="https://github.com/yasmincsme/TicTacToe.git">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=TicTacToe&theme=radical" alt="TicTacToe" />
+  <img width="32.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=TicTacToe&theme=midnight-purple" alt="TicTacToe" />
 </a>
 
 <a href="https://github.com/yasmincsme/Interrupcoes-embarcatech.git">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=Interrupcoes-embarcatech&theme=radical" alt="Interrupcoes Embarcatech" />
+  <img width="32.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=Interrupcoes-embarcatech&theme=midnight-purple" alt="Interrupcoes Embarcatech" />
 </a>
 
 </div>
