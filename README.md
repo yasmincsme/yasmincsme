@@ -42,18 +42,17 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFA4C7&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos" alt="Typing SVG" /></a>
 
 <div align="center">
-## My Repositories
 
 <a href="https://github.com/yasmincsme/Comunicacao-serial-embarcatech.git">
-  <img width="32.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=Comunicacao-serial-embarcatech&theme=midnight-purple" alt="Comunicacao Serial Embarcatech" />
+  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=Comunicacao-serial-embarcatech&theme=midnight-purple" alt="Comunicacao Serial Embarcatech" />
 </a>
 
 <a href="https://github.com/yasmincsme/TicTacToe.git">
-  <img width="32.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=TicTacToe&theme=midnight-purple" alt="TicTacToe" />
+  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=TicTacToe&theme=midnight-purple" alt="TicTacToe" />
 </a>
 
 <a href="https://github.com/yasmincsme/Interrupcoes-embarcatech.git">
-  <img width="32.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=Interrupcoes-embarcatech&theme=midnight-purple" alt="Interrupcoes Embarcatech" />
+  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=Interrupcoes-embarcatech&theme=midnight-purple" alt="Interrupcoes Embarcatech" />
 </a>
 
 </div>
