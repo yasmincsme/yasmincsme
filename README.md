@@ -43,7 +43,7 @@
 
 <div align="center">
 <!-- Link para o repositório projetoDejaVu -->
-<a href="[https://github.com/lariiscriis/DejaVu](https://github.com/yasmincsme/GraphicsProcessor-HPS-Kernel-Library.git)">
+<a href="[https://github.com/NathielleA/GraphicsProcessor-Game.git](https://github.com/NathielleA/GraphicsProcessor-Game.git)">
   <picture>
     <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yasmincsme&repo=GraphicsProcessor-HPS-Kernel-Library&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="DejaVu" />
   </picture>
