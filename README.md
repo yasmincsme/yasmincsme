@@ -4,6 +4,7 @@
 
 <div>
    <img align="right" alt="lariiscriis" width="230" height="230" src="[https://i.pinimg.com/736x/0a/5b/78/0a5b78c9f07c95f5e8af1e3c1eae4d16.jpg]">
+</div>
 
 - 🎓 Currently studying **Computer Engineering** at UEFS.
   
