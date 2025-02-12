@@ -19,8 +19,9 @@
 <br>
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yasmincsme&show_icons=true&theme=gruvbox">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini464&layout=compact&theme=gruvbox">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yasmincsme&show_icons=true&theme=idnight-purple">
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini464&layout=compact&theme=idnight-purple">
 </div>
 
 <!--
