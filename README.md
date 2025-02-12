@@ -1,16 +1,12 @@
+ ##  <div align="center"> 👋 Hi there! I’m Yasmin Cordeiro<div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=143&color=9033ff"/>
+
 ## 🦇 About Me
 
 <div>
 
-- 🎓 Currently studying **Computer Engineering** at UEFS.
-  
-- 💻 FAPESB scholarship holder conducting research in **robotics**.
-
-- 📚 Interested in robotics, embedded systems, and hardware engineering.
-
-- 📢 **Student representative** on the Computer Engineering board.
-
-- 💜 Founding member of **IEEE Women in Engineering** at UEFS.
+I am currently studying **Computer Engineering** at UEFS and a **FAPESB** scholarship holder, conducting research in **robotics**. I have a strong interest in **robotics**, **embedded systems**, and **hardware engineering**. Additionally, I am a **student representative** on the Computer Engineering board and a **founding member** of **IEEE Women in Engineering** at UEFS. I love getting involved in projects that drive technological innovation and promote the presence of women in the engineering field! 💻 💜
 
 </div>
 
