@@ -34,32 +34,11 @@
 
 ## 🛠 Tech Stack
 
-### Programming Languages
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B)
-![Verilog](https://img.shields.io/badge/-Verilog-000000?style=for-the-badge)
 
-### Frameworks & Libraries
-![ROS](https://img.shields.io/badge/-ROS-000000?style=for-the-badge&logo=ros)
-![ROS2](https://img.shields.io/badge/-ROS2-000000?style=for-the-badge&logo=ros)
-![Pico SDK](https://img.shields.io/badge/-Pico%20SDK-000000?style=for-the-badge&logo=raspberrypi)
+| **Category**               | **Technologies**                                                                                                                                                                                                                                                                                                                                 |
+|----------------------------|------------------------------------------------------------------------------------------|
+| **Programming Languages**  | ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B) ![Verilog](https://img.shields.io/badge/-Verilog-000000?style=for-the-badge)                                                                                                                                                           |
+| **Frameworks & Libraries** | ![ROS](https://img.shields.io/badge/-ROS-000000?style=for-the-badge&logo=ros) ![ROS2](https://img.shields.io/badge/-ROS2-000000?style=for-the-badge&logo=ros) ![Pico SDK](https://img.shields.io/badge/-Pico%20SDK-000000?style=for-the-badge&logo=raspberrypi)                                                                                                                                   |
+| **Tools**                  | ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visualstudiocode) ![Quartus](https://img.shields.io/badge/-Quartus-000000?style=for-the-badge&logo=intel) ![Gazebo](https://img.shields.io/badge/-Gazebo-000000?style=for-the-badge&logo=ros) ![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=for-the-badge&logo=latex) ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion) ![Trello](https://img.shields.io/badge/-Trello-000000?style=for-the-badge&logo=trello) |
+| **Platforms**              | ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?style=for-the-badge&logo=raspberrypi) ![Raspberry Pi Pico](https://img.shields.io/badge/-Raspberry%20Pi%20Pico-000000?style=for-the-badge&logo=raspberrypi) ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=arduino) ![Intel FPGA](https://img.shields.io/badge/-Intel%20FPGA-000000?style=for-the-badge&logo=intel) |
 
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visualstudiocode)
-
-![Quartus](https://img.shields.io/badge/-Quartus-000000?style=for-the-badge&logo=intel)
-![Gazebo](https://img.shields.io/badge/-Gazebo-000000?style=for-the-badge&logo=ros)
-![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=for-the-badge&logo=latex)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion)
-![Trello](https://img.shields.io/badge/-Trello-000000?style=for-the-badge&logo=trello)
-
-
-### Platforms
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?style=for-the-badge&logo=raspberrypi)
-![Raspberry Pi Pico](https://img.shields.io/badge/-Raspberry%20Pi%20Pico-000000?style=for-the-badge&logo=raspberrypi)
-![Arduino](https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=arduino)
-![Intel FPGA](https://img.shields.io/badge/-Intel%20FPGA-000000?style=for-the-badge&logo=intel)
