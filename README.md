@@ -1,4 +1,4 @@
-<div align='center'>
+<div align=center>
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?      font=Fira+Code&duration=4000&pause=500&color=C341EB&width=435&lines=Quem+escova+bits+n%C3%A3o+tem+tempo+para+c%C3%B3digo+sujo.;+para+c%C3%B3digo+sujo.)](https://git.io/typing-svg)
 </div>
 
