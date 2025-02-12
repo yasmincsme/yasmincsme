@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=C341EB&width=435&lines=Quem+escova+bits+n%C3%A3o+tem+tempo+para+c%C3%B3digo+sujo.)](https://git.io/typing-svg)
 
+<div>
+
 - 🎓 Currently studying **Computer Engineering** at UEFS.
   
 - 💻 FAPESB scholarship holder conducting research in **robotics**.
@@ -13,8 +15,7 @@
 - 📢 **Student representative** on the Computer Engineering board.
 
 - 💜 Founding member of **IEEE Women in Engineering** at UEFS.
-  
-- ✨ **Pronouns:** She/Her
+
 </div>
 
 <br>
