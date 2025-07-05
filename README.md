@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=143&color=9033ff"/>
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="15px"> Hi there! I'm Yasmin Cordeiro</h2>
+<h2 align="left">Hi there! I'm Yasmin Cordeiro</h2>
 
 <div>
 
